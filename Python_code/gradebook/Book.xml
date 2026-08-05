@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gradebook>
+    <student id="101" name="Alice Smith">
+        <semester term="Semester 1">
+            <subject name="Math"><class_avg>88.5</class_avg><final_test>92.0</final_test></subject>
+            <subject name="Science"><class_avg>91.2</class_avg><final_test>89.0</final_test></subject>
+            <subject name="History"><class_avg>85.0</class_avg><final_test>88.0</final_test></subject>
+        </semester>
+        <semester term="Semester 2">
+            <subject name="Math"><class_avg>90.0</class_avg><final_test>94.5</final_test></subject>
+            <subject name="Science"><class_avg>93.0</class_avg><final_test>95.0</final_test></subject>
+            <subject name="History"><class_avg>87.5</class_avg><final_test>91.0</final_test></subject>
+        </semester>
+    </student>
+
+    <student id="102" name="Bob Jones">
+        <semester term="Semester 1">
+            <subject name="Math"><class_avg>75.0</class_avg><final_test>78.0</final_test></subject>
+            <subject name="Science"><class_avg>82.4</class_avg><final_test>80.0</final_test></subject>
+            <subject name="History"><class_avg>79.0</class_avg><final_test>84.0</final_test></subject>
+        </semester>
+        <semester term="Semester 2">
+            <subject name="Math"><class_avg>78.5</class_avg><final_test>82.0</final_test></subject>
+            <subject name="Science"><class_avg>85.0</class_avg><final_test>88.5</final_test></subject>
+            <subject name="History"><class_avg>80.0</class_avg><final_test>83.0</final_test></subject>
+        </semester>
+    </student>
+
+    <student id="103" name="Charlie Brown">
+        <semester term="Semester 1">
+            <subject name="Math"><class_avg>92.0</class_avg><final_test>96.0</final_test></subject>
+            <subject name="Science"><class_avg>89.5</class_avg><final_test>91.0</final_test></subject>
+            <subject name="History"><class_avg>94.0</class_avg><final_test>95.0</final_test></subject>
+        </semester>
+        <semester term="Semester 2">
+            <subject name="Math"><class_avg>95.0</class_avg><final_test>98.0</final_test></subject>
+            <subject name="Science"><class_avg>91.0</class_avg><final_test>93.0</final_test></subject>
+            <subject name="History"><class_avg>96.0</class_avg><final_test>97.0</final_test></subject>
+        </semester>
+    </student>
+
+    <student id="104" name="Diana Prince">
+        <semester term="Semester 1">
+            <subject name="Math"><class_avg>85.0</class_avg><final_test>87.0</final_test></subject>
+            <subject name="Science"><class_avg>88.0</class_avg><final_test>90.0</final_test></subject>
+            <subject name="History"><class_avg>91.5</class_avg><final_test>89.0</final_test></subject>
+        </semester>
+        <semester term="Semester 2">
+            <subject name="Math"><class_avg>88.0</class_avg><final_test>91.0</final_test></subject>
+            <subject name="Science"><class_avg>90.0</class_avg><final_test>92.5</final_test></subject>
+            <subject name="History"><class_avg>93.0</class_avg><final_test>95.0</final_test></subject>
+        </semester>
+    </student>
+
+    <student id="105" name="Evan Wright">
+        <semester term="Semester 1">
+            <subject name="Math"><class_avg>68.0</class_avg><final_test>72.0</final_test></subject>
+            <subject name="Science"><class_avg>74.0</class_avg><final_test>70.5</final_test></subject>
+            <subject name="History"><class_avg>71.0</class_avg><final_test>75.0</final_test></subject>
+        </semester>
+        <semester term="Semester 2">
+            <subject name="Math"><class_avg>72.0</class_avg><final_test>76.0</final_test></subject>
+            <subject name="Science"><class_avg>76.5</class_avg><final_test>79.0</final_test></subject>
+            <subject name="History"><class_avg>75.0</class_avg><final_test>78.0</final_test></subject>
+        </semester>
+    </student>
+</gradebook>

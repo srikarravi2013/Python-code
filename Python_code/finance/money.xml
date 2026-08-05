@@ -1,0 +1,74 @@
+<finance>
+    <month name="January">
+        <expense category="Food">400</expense>
+        <expense category="Gas">130</expense>
+        <expense category="Shopping">150</expense>
+        <expense category="Utilities">210</expense>
+    </month>
+    <month name="February">
+        <expense category="Food">380</expense>
+        <expense category="Gas">120</expense>
+        <expense category="Shopping">90</expense>
+        <expense category="Utilities">205</expense>
+    </month>
+    <month name="March">
+        <expense category="Food">420</expense>
+        <expense category="Gas">140</expense>
+        <expense category="Shopping">210</expense>
+        <expense category="Utilities">190</expense>
+    </month>
+    <month name="April">
+        <expense category="Food">390</expense>
+        <expense category="Gas">115</expense>
+        <expense category="Shopping">130</expense>
+        <expense category="Utilities">185</expense>
+    </month>
+    <month name="May">
+        <expense category="Food">450</expense>
+        <expense category="Gas">150</expense>
+        <expense category="Shopping">310</expense>
+        <expense category="Utilities">195</expense>
+    </month>
+    <month name="June">
+        <expense category="Food">410</expense>
+        <expense category="Gas">160</expense>
+        <expense category="Shopping">250</expense>
+        <expense category="Utilities">230</expense>
+    </month>
+    <month name="July">
+        <expense category="Food">350</expense>
+        <expense category="Gas">120</expense>
+        <expense category="Shopping">200</expense>
+        <expense category="Utilities">245</expense>
+    </month>
+    <month name="August">
+        <expense category="Food">430</expense>
+        <expense category="Gas">135</expense>
+        <expense category="Shopping">180</expense>
+        <expense category="Utilities">240</expense>
+    </month>
+    <month name="September">
+        <expense category="Food">395</expense>
+        <expense category="Gas">125</expense>
+        <expense category="Shopping">110</expense>
+        <expense category="Utilities">200</expense>
+    </month>
+    <month name="October">
+        <expense category="Food">415</expense>
+        <expense category="Gas">130</expense>
+        <expense category="Shopping">175</expense>
+        <expense category="Utilities">190</expense>
+    </month>
+    <month name="November">
+        <expense category="Food">480</expense>
+        <expense category="Gas">145</expense>
+        <expense category="Shopping">350</expense>
+        <expense category="Utilities">205</expense>
+    </month>
+    <month name="December">
+        <expense category="Food">520</expense>
+        <expense category="Gas">150</expense>
+        <expense category="Shopping">500</expense>
+        <expense category="Utilities">220</expense>
+    </month>
+</finance>
