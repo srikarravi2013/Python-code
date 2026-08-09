@@ -102,20 +102,17 @@ def analyze_file(file_path: str) -> AnalysisReport:
 
 
 def print_report(report: AnalysisReport):
-    data = report.to_dict()
-    print("=" * 60)
+    data = report.to_dict() 
     print(f" FILE ANALYSIS REPORT: {report.basic_info.file_name}")
-    print("=" * 60)
-
     for section_name, section_data in data.items():
         print(f"\n🔹 [{section_name.replace('_', ' ').upper()}]")
         if isinstance(section_data, dict):
             for k, v in section_data.items():
                 if k == "first_few_lines":
-                    print(f"  • Preview:\n--- START ---\n{v}\n--- END ---")
+                    print(f"  • Preview:\nSTART:\n{v}\nEND:")
                 else:
                     print(f"  • {k}: {v}")
-    print("=" * 60)
+    
 
 
 if __name__ == "__main__":
