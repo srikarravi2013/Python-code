@@ -1,0 +1,37 @@
+{
+    "basic_info": {
+        "file_name": "1.py",
+        "absolute_path": "C:\\Users\\srika\\Python-code\\Python_code\\1.py",
+        "extension": ".py",
+        "size_bytes": 363,
+        "size_human": "363.00 B"
+    },
+    "timestamps": {
+        "created_utc": "2026-08-05 22:08:00 UTC",
+        "modified_utc": "2026-07-10 23:48:25 UTC",
+        "accessed_utc": "2026-08-05 22:08:46 UTC"
+    },
+    "permissions": {
+        "octal_permissions": "666",
+        "readable": true,
+        "writable": true,
+        "executable": true,
+        "owner_id": 0,
+        "group_id": 0
+    },
+    "hashes": {
+        "md5": "7480cecc1629f2915ad4906e8dd8c146",
+        "sha1": "4e1706cb42b387ed7597ef32ef00d96afe2191f0",
+        "sha256": "3c60f4a5208c754bd5628b20fee3b66e013ec894a69ae91e02e966407ee3a102"
+    },
+    "content_preview": {
+        "format_class": "Text",
+        "encoding": "UTF-8 (assumed)",
+        "total_lines": 18,
+        "first_few_lines": "import matplotlib.pyplot as plt\n\nfig, ax = plt.subplots()\n\nx_plot = 5.0\ny_plot = 7.0\nz = 6.0\n\nax.plot(x_plot, y_plot, 'o', color='blue')\nax.plot(x_plot, z, 'o', color='orange')",
+        "hex_dump_sample": null
+    },
+    "type_specific_metadata": {
+        "note": "No handler registered for this extension"
+    }
+}
